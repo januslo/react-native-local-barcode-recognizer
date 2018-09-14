@@ -1,0 +1,19 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+*.log
+out
+gen
+examples/node_modules
+examples/android/build
+examples/android/app/build
+examples/android/.gradle
+android/build
+android/gen
+android/.gradle
+android/.idea
+android/*.iml

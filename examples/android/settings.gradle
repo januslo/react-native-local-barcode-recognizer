@@ -1,0 +1,5 @@
+rootProject.name = 'examples'
+include ':react-native-local-barcode-recognizer'
+project(':react-native-local-barcode-recognizer').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-local-barcode-recognizer/android')
+
+include ':app'
