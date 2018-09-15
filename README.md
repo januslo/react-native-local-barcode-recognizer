@@ -66,4 +66,4 @@ Options:
 
 | name | desc |
 |:----:|:----:|
-| codeType | the codeFormat array, no default values,at last one of follow values needed: aztec ean13 ean8 qr pdf417 upc_e datamatrix code39 code93 interleaved2of5 codabar code128 maxicode rss14 rssexpanded upc_a upc_ean   |
+| codeTypes | the codeFormat array, no default values,at last one of follow values needed: aztec ean13 ean8 qr pdf417 upc_e datamatrix code39 code93 interleaved2of5 codabar code128 maxicode rss14 rssexpanded upc_a upc_ean   |

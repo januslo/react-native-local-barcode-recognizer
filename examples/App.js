@@ -7,7 +7,7 @@
  */
 
 import React, {Component} from 'react';
-import {Platform, StyleSheet, Text, View,Image,Button} from 'react-native';
+import {Platform, StyleSheet, Text, View,Image,Button,NativeModules} from 'react-native';
 import LocalBarcodeRecognizer from 'react-native-local-barcode-recognizer';
 
 

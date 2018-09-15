@@ -9,7 +9,7 @@
   "dependencies": {
     "react": "16.3.1",
     "react-native": "0.55.4",
-    "react-native-local-barcode-recognizer": "file:.."
+    "react-native-local-barcode-recognizer": "file:///Users/januslo/workspace/react-native-local-barcode-recognizer"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",

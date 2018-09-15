@@ -17,3 +17,6 @@ android/gen
 android/.gradle
 android/.idea
 android/*.iml
+node_modules
+ios/ZXingObjC-3.2.2/examples
+ios/ZXingObjC-3.2.2/ZXingObjCTests

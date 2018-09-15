@@ -1,5 +1,5 @@
 import { NativeModules } from 'react-native';
 
-const LocalBarcodeRecognizer = NativeModules.LocalBarcodeRecognizer;
+const LocalBarcodeRecognizer =LocalBarcodeRecognizer || NativeModules.LocalBarcodeRecognizer;
 
 module.exports = LocalBarcodeRecognizer;
