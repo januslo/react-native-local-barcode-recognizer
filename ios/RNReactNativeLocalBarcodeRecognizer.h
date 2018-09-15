@@ -6,7 +6,7 @@
 #endif
 
 @interface RNReactNativeLocalBarcodeRecognizer : NSObject <RCTBridgeModule>
-- (dispatch_queue_t)methodQueue
+- (dispatch_queue_t)methodQueue;
 + (NSDictionary *)validCodeTypes;
 - (UIImage *)decodeBase64ToImage:(NSString *)strEncodeData;
 @end

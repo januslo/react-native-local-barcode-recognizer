@@ -3,7 +3,7 @@
 #import <UIKit/UIKit.h>
 #import <AVFoundation/AVFoundation.h>
 #import "RNReactNativeLocalBarcodeRecognizer.h"
-#import <ZXingObjC-3.2.2/ZXingObjC/ZXingObjC.h>
+#import <ZXingObjC/ZXingObjC.h>
 @implementation RNReactNativeLocalBarcodeRecognizer
 
 - (dispatch_queue_t)methodQueue
